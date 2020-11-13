@@ -60,7 +60,7 @@ calc_statistics()
     ## P(VE < 30%): 0.462702
     ## VE 95% Credible Interval: -26.1556, 0.9948
 
-![](pfizer-ve_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
 
 Assuming an 8 and 86 case split between the arms:
 
@@ -73,4 +73,4 @@ calc_statistics(8, 86)
     ## P(VE < 30%): 6.42927e-13
     ## VE 95% Credible Interval: 0.8156, 0.9559
 
-![](pfizer-ve_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
