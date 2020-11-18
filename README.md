@@ -62,7 +62,7 @@ calc_statistics()
 
 ![](README_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
 
-Assuming an 8 and 86 case split between the arms:
+With the 8 and 170 case split between the arms:
 
 ``` r
 n <- 170
